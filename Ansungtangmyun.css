@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Ansungtangmyun';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/nongshim/Ansungtangmyun-Bold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/nongshim/Ansungtangmyun-Bold.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nongshim/Ansungtangmyun-Bold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nongshim/Ansungtangmyun-Bold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nongshim/Ansungtangmyun-Bold.ttf') format("truetype");
+    font-display: swap;
+} 
